@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadacha1", "Zadacha1\Zadacha1.csproj", "{881813C5-AB34-446A-84E0-32269130F5C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadacha2", "Zadacha2\Zadacha2.csproj", "{1092EED1-D995-4054-90E8-9A7FAC9A303C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadacha3", "Zadacha3\Zadacha3.csproj", "{4D39F28F-7034-41FF-BF9C-2635AB6CC3DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{881813C5-AB34-446A-84E0-32269130F5C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{881813C5-AB34-446A-84E0-32269130F5C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{881813C5-AB34-446A-84E0-32269130F5C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{881813C5-AB34-446A-84E0-32269130F5C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1092EED1-D995-4054-90E8-9A7FAC9A303C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1092EED1-D995-4054-90E8-9A7FAC9A303C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1092EED1-D995-4054-90E8-9A7FAC9A303C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1092EED1-D995-4054-90E8-9A7FAC9A303C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D39F28F-7034-41FF-BF9C-2635AB6CC3DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D39F28F-7034-41FF-BF9C-2635AB6CC3DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D39F28F-7034-41FF-BF9C-2635AB6CC3DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D39F28F-7034-41FF-BF9C-2635AB6CC3DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {761CF456-24A2-4F71-84DC-3DE0175B4752}
+	EndGlobalSection
+EndGlobal
